@@ -5,7 +5,7 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-const token string = "NTc5MTYxNzgyMjg3ODU5NzQw.XN-Jkw.2kqlbrVzrPgzKMwrPa6HCaMP0OU"
+const token string = "%"
 var BotID string
 
 func main() {
